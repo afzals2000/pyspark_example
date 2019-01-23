@@ -1,5 +1,5 @@
 # Pyspark Example
-Pyspark examples on how to load data from different format into Dataframes.
+Pyspark examples on how to load data from different format into Spark Dataframes.
 
 ## Installation
 Python 3.x should be available on OS. Create virtual environment in $HOME dir ($HOME/venv3x)   
