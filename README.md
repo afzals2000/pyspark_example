@@ -2,7 +2,8 @@
 Pyspark examples on how to load data from different format into Dataframes.
 
 ## Installation
-Python 3.x should be available on OS. Create virtual environment in $HOME dir ($HOME/venv3x) 
+Python 3.x should be available on OS. Create virtual environment in $HOME dir ($HOME/venv3x)   
+Ensure JAVA_HOME is setup in environment 
 
 ## Setup
 Setup
