@@ -15,6 +15,10 @@ Add src folder to PYTHONPATH
 $:~/pyspark_example$ export PYTHONPATH=$PYTHONPATH:$PWD/src
 ```
 
+Run a module
+```
+$:~/pyspark_example$python csv_2_dataframe.py
+```
 
 ## Meta
 https://github.com/afzals2000/pyspark_example
